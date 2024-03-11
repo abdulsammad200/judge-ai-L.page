@@ -1,0 +1,63 @@
+.hero-bg {
+  height: 1100px;
+  width: 100%;
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-bar {
+  height: 100px;
+  width: 85%;
+  margin: auto;
+}
+.img-1 {
+  border-radius: 15px;
+}
+.nav-list {
+  list-style: none;
+  align-items: center;
+}
+.btn-1 {
+  height: 40px;
+  width: 150px;
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+.hero-section {
+  height: 600px;
+  width: 40%;
+}
+.text-2 {
+  font-size: 60px;
+}
+.text-3 {
+  font-size: 20px;
+}
+.btn-2 {
+  height: 45px;
+  width: 100px;
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+.btn-3 {
+  height: 45px;
+  width: 160px;
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+.link-1{
+height: 100px;
+width: 80%;
+margin: auto;
+}
+.icon-1{
+    font-size: 80px;
+    color: #b59f72;
+}
